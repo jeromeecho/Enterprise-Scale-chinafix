@@ -882,7 +882,7 @@
                 }
             },
             {
-                "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/contoso/providers/Microsoft.Authorization/policyDefinitions/Deny-EH-minTLS",
+                "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/contoso/providers/Microsoft.Authorization/policyDefinitions/Deny-EH-MINTLS",
                 "policyDefinitionReferenceId": "Deny-EH-minTLS",
                 "groupNames": [],
                 "parameters": {
